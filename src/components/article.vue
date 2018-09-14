@@ -123,10 +123,10 @@ export default {
     padding:0 10px;
   }
 
-  .loading {
+  /* .loading {
     text-align: center;
     padding-top: 300px;
-  }
+  } */
 
   .replyUp a:nth-of-type(2) {
     margin-left: 0px;
